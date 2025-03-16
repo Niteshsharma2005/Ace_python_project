@@ -1,0 +1,17 @@
+
+Exploratory Data Analysis on Social Media Data
+
+1. *Dataset Overview:*
+   - Total Records: 732
+   - Features: 17
+
+2. *Key Insights:*
+   - Engagement varies significantly across posts.
+   - Certain users act as influencers, generating high engagement.
+   - Sentiment affects engagement, with positive posts generally receiving more interactions.
+   - Content with engaging hashtags tends to perform better.
+
+3. *Recommendations:*
+   - Focus content strategy around high-performing themes.
+   - Collaborate with top influencers to expand reach.
+   - Optimize post timing based on peak engagement trends.
